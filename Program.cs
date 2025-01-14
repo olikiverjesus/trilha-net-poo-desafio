@@ -23,7 +23,8 @@ namespace DesafioPOO
             iphone.ReceberLigacao();
             iphone.InstalarAplicativo("Instagram");
 
-            Console.WriteLine();
+            Console.WriteLine();  
         }
     }
 }
+ 
